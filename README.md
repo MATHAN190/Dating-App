@@ -1,16 +1,38 @@
-# dating_app
+# ❤️ Flutter Dating App (Tinder Swipe + Profile Setup)
 
-A new Flutter project.
+A modern dating application built with Flutter, featuring  
+Tinder-style swipe cards, user onboarding, profile setup, and clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🔹 Onboarding
+- Get user name
+- Date of Birth selection
+- Gender selection (Men / Women / Other)
+- Profile photo upload
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔹 Profile Module
+- Displays Name, DOB, Gender, Profile Picture
+- Gender detection based on stored boolean + genderType string
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔹 Tinder Style Home
+- Swipe left / right cards
+- Smooth animations
+- Like / Nope buttons
+- Stack card style
+
+### 🔹 Bottom Navigation Bar
+- Home
+- Chat
+- Profile
+- Fav People
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **tinder_card_plus** (Swipe animation)
+
+
