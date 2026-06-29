@@ -9,7 +9,7 @@ class ChatScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final Map<String, dynamic> favUser = {
-      'name': 'Lavanya',
+      'name': 'Lavanyaa',
       'age': 25,
       'gender': 'Female',
       'hobby': 'Dancing, Yoga',
